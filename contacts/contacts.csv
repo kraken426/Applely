@@ -1,0 +1,4 @@
+first_name,email,company,domain,sent,sent_at,error
+Alice,ayush.del2002@gmail.com,ExampleCorp,frontend,yes,2025-04-29T03:05:25.411997,
+Bob,ishitabindal2002@gmail.com,ExampleInc,backend,yes,2025-04-29T03:05:29.556646,
+Charlie,jnvrhfvjrf@gmail.com,ExampleLLC,devops,no,2025-04-29T03:05:33.324851,bounced (Address not found)
