@@ -1,0 +1,6 @@
+jinja2
+python-dotenv
+dnspython
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib 
